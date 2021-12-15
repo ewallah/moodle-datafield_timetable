@@ -1,5 +1,6 @@
 <?php
 
+$string['privacy:metadata'] = 'The Time table field component does not store any personal data, it uses tables defined in mod_data.';
 $string['pluginname'] = 'Time Table';
 $string['fieldtypelabel'] = 'Time Table';
 $string['fieldname'] = 'Time Table';
